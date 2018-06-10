@@ -1,5 +1,5 @@
 # Ignore everything under .idea :
-.idea
+.idea/**
 
 
 # Created by https://www.gitignore.io/api/maven,intellij
